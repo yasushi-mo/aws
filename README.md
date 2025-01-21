@@ -2,6 +2,7 @@
 
 ## Articles
 - [【AWS】IAM ユーザーを作成する](https://qiita.com/Yasushi-Mo/items/0e5e2b56e1d85c9d05cd)
+- [【AWS】IAM に関する用語の整理](https://qiita.com/Yasushi-Mo/items/0649fff954d70b58b367)
 
 - [【AWS】VPC を作成する](https://qiita.com/Yasushi-Mo/items/d5845d312fedce37e1d6)
 - [【AWS】VPC でサブネットを作成する](https://qiita.com/Yasushi-Mo/items/7e044ba058070919f813)
