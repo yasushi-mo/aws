@@ -12,3 +12,5 @@
 - [【AWS】EC2 インスタンス上で GitHub からクローンした PHP アプリを動かす](https://qiita.com/Yasushi-Mo/items/222dadaec2252f13c914)
 
 - [【AWS】サブネットとサブネットグループを作成する](https://qiita.com/Yasushi-Mo/items/2dd7c8db5e4e15de97cf)
+
+- [【AWS】各サービスのスコープ（グローバル・リージョン・AZ）を整理する](https://qiita.com/Yasushi-Mo/items/d67209a1bfb69b9eba6b)
