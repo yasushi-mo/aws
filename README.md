@@ -11,6 +11,7 @@
 - [【AWS】EC2 インスタンス上で GitHub からクローンした PHP アプリを動かす](https://qiita.com/Yasushi-Mo/items/222dadaec2252f13c914)
 - [【AWS】EC2 インスタンス購入オプションの種類と使い分け](https://qiita.com/Yasushi-Mo/items/20f0ea5c76cb33057fb1)
 - [【AWS】EC2 インスタンスファミリーの種類と使い分け](https://qiita.com/Yasushi-Mo/items/b9378ed384b835a34367)
+- [【AWS】EC2 プレイスメントグループの種類と使い分け](https://qiita.com/Yasushi-Mo/items/d7a2a7264878afb65eb4)
 
 ### VPC
 - [【AWS】VPC を作成する](https://qiita.com/Yasushi-Mo/items/d5845d312fedce37e1d6)
