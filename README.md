@@ -21,3 +21,6 @@
 - [【AWS】サブネットとサブネットグループを作成する](https://qiita.com/Yasushi-Mo/items/2dd7c8db5e4e15de97cf)
 
 - [【AWS】各サービスのスコープ（グローバル・リージョン・AZ）を整理する](https://qiita.com/Yasushi-Mo/items/d67209a1bfb69b9eba6b)
+
+### S3
+- [【S3】S3 ストレージクラスの特徴・活用シーンまとめ](https://qiita.com/Yasushi-Mo/items/7e580f927f5a539449ef)
